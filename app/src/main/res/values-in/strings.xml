@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Konverter Level Indev</string>
+    <string name="app_subtitle">Konversi ke Alpha &amp; Buat Dataran</string>
+    
+    <string name="select_map_file">Pilih File Peta</string>
+    <string name="change_mclevel_file">Ubah File .mclevel</string>
+    <string name="select_mclevel_file">Pilih File .mclevel</string>
+    <string name="selected_file">Terpilih: %1$s</string>
+    <string name="file_placeholder">Berkas</string>
+    
+    <string name="position_offsets">Offset Posisi</string>
+    <string name="label_x">X</string>
+    <string name="label_y">Y (Genap)</string>
+    <string name="label_z">Z</string>
+    
+    <string name="world_generation">Pembuatan Dunia</string>
+    <string name="extra_chunk_radius">Radius Chunk Ekstra</string>
+    <string name="terrain_type">Tipe Dataran</string>
+    <string name="simple_flat">Datar Simpel</string>
+    <string name="perlin_noise">Perlin Noise</string>
+    
+    <string name="base_fill_block_id">ID Blok Dasar</string>
+    <string name="noise_seed_opt">Seed Noise (Opsional)</string>
+    <string name="repopulate_chunks">Isi Ulang Chunk (Pohon/Ore)</string>
+    
+    <string name="convert_and_generate_zip">Konversi &amp; Buat ZIP</string>
+    <string name="version_text">Versi 1.0.0</string>
+    
+    <string name="preparing">Menyiapkan...</string>
+    <string name="conversion_success">Konversi berhasil diselesaikan!</string>
+    <string name="error_prefix">Kesalahan: %1$s</string>
+    <string name="source_code_downloaded">Kode sumber berhasil diunduh!</string>
+    <string name="failed_prefix">Gagal: %1$s</string>
+    
+    <string name="world_preview">Pratinjau Dunia</string>
+    <string name="preview_description">Pratinjau peta ketinggian (top-down) dari chunk yang dikonversi.</string>
+    <string name="close">Tutup</string>
+</resources>

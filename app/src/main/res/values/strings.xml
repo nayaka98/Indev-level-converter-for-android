@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Indev Level Converter</string>
+    <string name="app_subtitle">Convert to Alpha &amp; Generate Terrain</string>
+    
+    <string name="select_map_file">Select Map File</string>
+    <string name="change_mclevel_file">Change .mclevel File</string>
+    <string name="select_mclevel_file">Select .mclevel File</string>
+    <string name="selected_file">Selected: %1$s</string>
+    <string name="file_placeholder">File</string>
+    
+    <string name="position_offsets">Position Offsets</string>
+    <string name="label_x">X</string>
+    <string name="label_y">Y (Even)</string>
+    <string name="label_z">Z</string>
+    
+    <string name="world_generation">World Generation</string>
+    <string name="extra_chunk_radius">Extra Chunk Radius</string>
+    <string name="terrain_type">Terrain Type</string>
+    <string name="simple_flat">Simple Flat</string>
+    <string name="perlin_noise">Perlin Noise</string>
+    
+    <string name="base_fill_block_id">Base Fill Block ID</string>
+    <string name="noise_seed_opt">Noise Seed (Opt)</string>
+    <string name="repopulate_chunks">Repopulate Chunks (Trees/Ores)</string>
+    
+    <string name="convert_and_generate_zip">Convert &amp; Generate ZIP</string>
+    <string name="version_text">Versi 1.0.0</string>
+    
+    <string name="preparing">Preparing...</string>
+    <string name="conversion_success">Conversion successfully completed!</string>
+    <string name="error_prefix">Error: %1$s</string>
+    <string name="source_code_downloaded">Source code downloaded!</string>
+    <string name="failed_prefix">Failed: %1$s</string>
+    
+    <string name="world_preview">World Preview</string>
+    <string name="preview_description">Top-down heightmap preview of the converted chunks.</string>
+    <string name="close">Close</string>
+</resources>

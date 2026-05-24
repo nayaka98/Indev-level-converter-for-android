@@ -1,0 +1,6 @@
+{
+  "name": "Indev Level Converter",
+  "description": "Convert Indev .mclevel files to Alpha format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
